@@ -1,0 +1,12 @@
+{
+  "name": "com.cat.idle_number",
+  "version": "1.0.0",
+  "displayName": "_IdleNumbr",
+  "description": "In many idle games, players accumulate resources or points that can grow to extraordinarily large numbers.\n To ensure readability and ease of comprehension, these numbers are frequently represented using an \nabbreviation system. This implementation provides a clean, organized way to display and manipulate such \nlarge numbers within the game environment.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "author": {
+    "name": "cat",
+    "email": "cat.ursu30@gmail.com"
+  }
+}
